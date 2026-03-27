@@ -8,4 +8,4 @@ Initial repository for usecase-phase-1.
 ## Setup
 1. Create a virtual environment
 2. Install dependencies from `backend/requirements.txt`
-3. Run the app per `backend/main.py`
+3. Run the app per `backend/main.py`  :   python -m uvicorn main:app --reload       
